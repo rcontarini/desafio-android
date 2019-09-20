@@ -5,25 +5,12 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="139f44d1-d1b1-4b30-bf3f-c7dd86327bf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,8 +68,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="506">
               <caret line="30" column="11" selection-end-line="30" selection-end-column="11" />
+              <folding>
+                <element signature="e#339#357#0" expanded="true" />
+                <element signature="e#591#628#0" expanded="true" />
+                <element signature="e#842#860#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-manifest" />
@@ -97,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -258,6 +251,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
@@ -374,7 +368,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4997233" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5002767" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5002767" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Logcat" order="4" sideWeight="0.4997233" weight="0.32937366" />
       <window_info anchor="bottom" id="Android Profiler" order="5" />
       <window_info anchor="bottom" id="Build" order="6" sideWeight="0.4997233" weight="0.33045357" />
@@ -415,8 +409,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="506">
           <caret line="30" column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <element signature="e#339#357#0" expanded="true" />
+            <element signature="e#591#628#0" expanded="true" />
+            <element signature="e#842#860#0" expanded="true" />
+          </folding>
         </state>
       </provider>
       <provider editor-type-id="android-manifest" />
